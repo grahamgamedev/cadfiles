@@ -1,9 +1,10 @@
 # Indymill
 [Website](https://indystry.cc/indymill/)
+
 [GitHub](https://github.com/NikodemBartnik/IndyMill)
 
 ## 3D Printed Parts
-## 0.8mm Nozzle
+All parts printed out of PLA with a 0.8mm nozzle and 30% infill.
 - [Motion Parts](https://indystry.cc/wp-content/uploads/2021/08/IndyMill-STL.zip)
 - Z Limit Switch Spacer.stl
 - ball_screw_tool.stl Must be printed in vase mode
